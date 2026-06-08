@@ -75,7 +75,9 @@ farmasmart/
 | GET | /api/categorias | Retorna as categorias disponíveis |
 
 ## Screenshots
-Adicione aqui as capturas de tela da interface do dashboard, da busca por faixa e do formulário de cadastro.
+![Screenshot 1](farmasmart/frontend/assets/81b053df-1619-4b2d-ac9f-f3d42996b5d0.jpg)
+![Screenshot 2](farmasmart/frontend/assets/WhatsApp%20Image%202026-06-08%20at%2020.05.27.jpeg)
+![Screenshot 3](farmasmart/frontend/assets/WhatsApp%20Image%202026-06-08%20at%2020.05.34.jpeg)
 
 ## Instalação
 **Linguagem**: JavaScript<br>
@@ -120,4 +122,4 @@ npm start
 
 ## Vídeo
 
-Adicione aqui o link da apresentação ou demonstração do projeto.
+[Link Video](https://drive.google.com/file/d/1n-Am5BcwPIMAzPPFrQasMd7Rfc_-YlOA/view?usp=sharing)
